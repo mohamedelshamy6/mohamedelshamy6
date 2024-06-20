@@ -34,11 +34,11 @@
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -58,11 +58,11 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:elshamy15.mohamed@gmail.com"><img src="https://img.shields.io/badge/Mohamed Elshamy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohamed-elshamy15/"><img src="https://img.shields.io/badge/-Mohamed Elshamy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.discord.com/users/614405209468305437"><img height="20em" src="https://img.shields.io/badge/elshamy15-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/elshamy_15/"><img src="https://img.shields.io/badge/-elshamy__15-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008989655939"><img src="https://img.shields.io/badge/-Mohamed Elshamy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+</div>
