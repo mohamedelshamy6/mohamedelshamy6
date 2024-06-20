@@ -61,7 +61,7 @@
 <p align="center">
 
 <a href="mailto:elshamy15.mohamed@gmail.com"><img src="https://img.shields.io/badge/Mohamed Elshamy-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/mohamed-elshamy15/"><img src="https://img.shields.io/badge/-Mohamed Elshamy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-elshamy15/"><img src="https://img.shields.io/badge/-Mohamed Elshamy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.discord.com/users/614405209468305437"><img height="20em" src="https://img.shields.io/badge/elshamy15-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/elshamy_15/"><img src="https://img.shields.io/badge/-elshamy__15-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008989655939"><img src="https://img.shields.io/badge/-Mohamed Elshamy-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
