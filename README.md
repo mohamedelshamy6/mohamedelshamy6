@@ -2,7 +2,7 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hey there! I'm Mohamed Elshamy</h2>
 
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;Computer+Science+Graduate" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%3999ee&size=32&center=true&vCenter=true&width=600&height=50&lines=Flutter+Developer;Computer+Science+Graduate" alt="Headline" />
     </div>
 <br>
 
@@ -11,8 +11,8 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelshamy6&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelshamy6" /> </p>
-
+<h3 align="center"><b>Visitor's Count</b></h3>
+<p align="center"><img src="https://profile-counter.glitch.me/mohamedelshamy6/count.svg" alt="visitor badge"/></p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
