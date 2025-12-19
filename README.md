@@ -6,7 +6,7 @@
     </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedelshamy6&row=2&column=6&margin-w=5&margin-h=15&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedelshamy6&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
